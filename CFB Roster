@@ -104,8 +104,7 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
-# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,HOU,QB,Talin Cho,Fr,72,200,99,90,100,85,85,95,95
+# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football 
 PLAYER,HOU,LB,David By,Fr,67,225,500,400,450,450,495,497,505
 PLAYER,HOU,OL,Ed Brick,Fr,84,326,99,90,100,85,85,95,95
 PLAYER,HOU,K,Leon Gostkowski,Fr,72,300,99,90,100,85,95,95,95
@@ -116,17 +115,6 @@ PLAYER,HOU,OL,Yang Young,Fr,82,350,99,90,100,85,85,95,95
 PLAYER,HOU,OL,Herman Reece,Fr,82,250,99,90,100,95,85,95,95
 PLAYER,HOU,DL,Danny Po,Fr,75,260,99,90,100,85,95,95,95
 PLAYER,HOU,DL,Ed Baca,Fr,75,240,110,100,100,95,105,95,95
-PLAYER,HOU,DL,Dave Brick,Fr,74,250,99,90,100,95,85,95,95
-PLAYER,HOU,DL,Nel Tu,Fr,73,265,99,90,100,85,95,95,95
-PLAYER,HOU,CB,Bach Cutler,Fr,71,185,99,90,100,85,85,95,95
-PLAYER,HOU,CB,Pat Neal,Fr,69,190,99,90,100,85,85,95,95
-PLAYER,HOU,CB,Tobias Core,Fr,78,190,99,90,100,95,85,95,95
-PLAYER,HOU,WR,Newt Crane,Fr,79,215,99,90,100,85,85,95,95
-PLAYER,HOU,RB,Ted Ginn,Fr,66,190,99,90,100,85,95,95,95
-PLAYER,HOU,WR,John John,Fr,80,195,99,90,100,85,85,95,95
-PLAYER,HOU,CB,Teddy Fromm,Fr,75,191,99,90,100,95,85,95,95
-PLAYER,HOU,LB,Justin Nico,Fr,78,220,99,90,100,95,85,95,95
-PLAYER,HOU,LB,Jay Naan,Fr,73,255,99,90,100,85,85,95,95
 PLAYER,HOU,S,Tahl West,Fr,72,205,99,90,100,85,85,95,95
 PLAYER,HOU,LB,Nico Price,Fr,74,190,99,90,100,95,85,95,95
 PLAYER,HOU,RB,Baker Nguyen,Fr,69,250,99,90,100,85,85,95,95
