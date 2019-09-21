@@ -105,7 +105,7 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football 
-PLAYER,HOU,LB,David By,Fr,67,225,500,400,450,450,495,497,505
+PLAYER,HOU,LB,David By,Fr,67,225,2000,160,170,180,175,187,205
 PLAYER,HOU,OL,Ed Brick,Fr,84,326,99,90,100,85,85,95,95
 PLAYER,HOU,K,Leon Gostkowski,Fr,72,300,99,90,100,85,95,95,95
 PLAYER,HOU,OL,Remy Cho,Fr,77,345,99,90,100,85,95,95,95
